@@ -192,7 +192,8 @@ pyrightconfig.json
 .history
 .ionide
 
-# DATA
+# DATA & CHECKPOINTS
 data/
+checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
