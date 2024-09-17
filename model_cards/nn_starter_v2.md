@@ -52,11 +52,11 @@
 ## Results
 - Overall CV RMSE: 72,905.41
 - Individual fold RMSEs:
-  1. 68,019.37
-  2. 68,775.68
-  3. 74,037.45
-  4. 76,533.42
-  5. 76,244.09
+  1. 68,209.18
+  2. 68,877.68
+  3. 73,975.63
+  4. 76,647.44
+  5. 76,368.67
 
 ## Observations
 - The model's performance is slightly worse than the previous version (72,813.14 vs 72,905.41 RMSE).
