@@ -192,8 +192,10 @@ pyrightconfig.json
 .history
 .ionide
 
-# DATA & CHECKPOINTS
+# DATA, LOGS, CHECKPOINTS & PREDICTIONS
 data/
 checkpoints/
+predictions/*
+tensorboard_logs/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
