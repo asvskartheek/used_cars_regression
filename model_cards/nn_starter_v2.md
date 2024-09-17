@@ -69,4 +69,5 @@
 - Increased the number of numerical features from 1 to 4
 
 ## References:
-- https://www.kaggle.com/code/cdeotte/nn-starter-lb-72300-cv-72800
+- [NN Starter](https://www.kaggle.com/code/cdeotte/nn-starter-lb-72300-cv-72800)
+- [Engine feature decoding](https://www.kaggle.com/competitions/playground-series-s4e9/discussion/531434)
