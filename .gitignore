@@ -195,6 +195,7 @@ pyrightconfig.json
 # DATA, LOGS, CHECKPOINTS & PREDICTIONS
 data/
 checkpoints/
+AutogluonModels/
 predictions/*
 tensorboard_logs/
 
