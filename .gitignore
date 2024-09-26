@@ -198,5 +198,6 @@ checkpoints/
 AutogluonModels/
 predictions/*
 tensorboard_logs/
+wandb/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
