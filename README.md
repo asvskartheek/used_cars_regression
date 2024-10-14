@@ -19,4 +19,11 @@ rm playground-series-s4e9.zip
 | [fastai](model_cards/fastai.md) | [fastai.ipynb](fastai.ipynb) | 76,060.12 | 77,2809.05 |
 
 
-Used car dataset original - https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset/ in our folder it is in data/used_cars.csv  
+Used car dataset original - https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset/ in our folder it is in data/used_cars.csv 
+
+## Winning Solutions
+#1 - https://www.kaggle.com/competitions/playground-series-s4e9/discussion/537052
+#2 - https://www.kaggle.com/competitions/playground-series-s4e9/discussion/537349
+#3 - https://www.kaggle.com/competitions/playground-series-s4e9/discussion/537029
+#4 - https://www.kaggle.com/competitions/playground-series-s4e9/discussion/536973
+#5 - https://www.kaggle.com/competitions/playground-series-s4e9/discussion/537173
